@@ -1,0 +1,21 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 280 85">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #c09f80;
+      }
+
+      .cls-2 {
+        fill: url(#linear-gradient);
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="103.55" y1="54.62" x2="176.08" y2="54.62" gradientTransform="translate(-2.04 -11.44) rotate(0.53)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#722738"/>
+      <stop offset="0.48" stop-color="#6d7993"/>
+      <stop offset="1" stop-color="#c09f80"/>
+    </linearGradient>
+  </defs>
+  <title>videohover</title>
+  <rect class="cls-1" x="-0.54" y="0.34" width="280" height="85"/>
+  <polygon class="cls-2" points="173.69 26.58 136.33 62.72 101.16 26.37 173.69 26.58"/>
+</svg>

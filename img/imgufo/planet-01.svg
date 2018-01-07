@@ -1,0 +1,20 @@
+<svg id="Planet" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 28.35 28.35">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#linear-gradient);
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="7.5" y1="25.61" x2="21.02" y2="2.19" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="0.19" stop-color="#fcfcfc"/>
+      <stop offset="0.35" stop-color="#f2f1f1"/>
+      <stop offset="0.5" stop-color="#e1e0df"/>
+      <stop offset="0.59" stop-color="#d3d1d0"/>
+      <stop offset="0.79" stop-color="#cdcbca"/>
+      <stop offset="1" stop-color="#dedddc"/>
+    </linearGradient>
+  </defs>
+  <title>planet</title>
+  <circle class="cls-1" cx="14.26" cy="13.9" r="13.52"/>
+</svg>

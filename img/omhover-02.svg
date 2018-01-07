@@ -1,0 +1,21 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 280 85">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="2261.67" y1="42.79" x2="2541.67" y2="42.79" gradientTransform="matrix(1, 0, 0, -1, -2261.52, 85.59)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#722738"/>
+      <stop offset="0.48" stop-color="#6d7993"/>
+      <stop offset="1" stop-color="#c09f80"/>
+    </linearGradient>
+  </defs>
+  <title>omhover</title>
+  <rect class="cls-1" x="0.14" y="0.29" width="280" height="85" transform="translate(280.28 85.59) rotate(-180)"/>
+  <polygon class="cls-2" points="175.18 23.71 138.15 60.2 102.65 24.18 175.18 23.71"/>
+</svg>

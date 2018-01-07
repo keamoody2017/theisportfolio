@@ -1,0 +1,21 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 280 85">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #6d7993;
+      }
+
+      .cls-2 {
+        fill: url(#linear-gradient);
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="114.71" y1="55.35" x2="187.25" y2="55.35" gradientTransform="translate(-2.04 -11.44) rotate(0.53)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#722738"/>
+      <stop offset="0.48" stop-color="#6d7993"/>
+      <stop offset="1" stop-color="#c09f80"/>
+    </linearGradient>
+  </defs>
+  <title>uxhover</title>
+  <rect class="cls-1" x="-0.29" y="-0.07" width="280" height="85"/>
+  <polygon class="cls-2" points="184.85 27.41 147.49 63.55 112.32 27.2 184.85 27.41"/>
+</svg>

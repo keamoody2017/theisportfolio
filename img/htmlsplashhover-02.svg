@@ -1,0 +1,21 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 280 85">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #d7cec7;
+      }
+
+      .cls-2 {
+        fill: url(#linear-gradient);
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="101.53" y1="60.47" x2="174.06" y2="60.47" gradientTransform="translate(-2.04 -11.44) rotate(0.53)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#722738"/>
+      <stop offset="0.48" stop-color="#6d7993"/>
+      <stop offset="1" stop-color="#c09f80"/>
+    </linearGradient>
+  </defs>
+  <title>htmlsplashhover</title>
+  <rect class="cls-1" x="-0.82" y="0.42" width="280" height="85"/>
+  <polygon class="cls-2" points="171.62 32.4 134.25 68.55 99.08 32.19 171.62 32.4"/>
+</svg>
