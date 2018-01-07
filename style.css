@@ -409,11 +409,12 @@ a:hover {
     background-color: #c09f80;
     margin: 0px;
     padding: 5px;
-    height: 100vh;
+    height: 100%;
     width: auto;
     padding-top: 50px;
     display: none;
     text-align: center;
+    overflow: hidden;
 }
 
 #hej {
@@ -453,7 +454,7 @@ a:hover {
     background-color: #d7cec7;
     margin: 0px;
     padding: 10px;
-    height: 100%;
+    height: 90vh;
     width: auto;
     padding-top: 50px;
     display: none;
@@ -611,29 +612,29 @@ img {
 }
 
 
-#astronaut_sprite {
-    background-image: url(img/astronautspritesheet-01.svg);
-    width: 18vw;
-    height: 22vw;
+#alien_sprite {
+    background-image: url(img/imgufo/aliensplash-01.svg);
+    width: 22vw;
+    height: 35.2vw;
     background-size: 700%;
     margin: 0 auto;
 }
 
-.astronaut_wave {
-    animation-name: astronaut_wave_kf;
+.alien_happy {
+    animation-name: alien_happy_kf;
     animation-duration: 1s;
     animation-iteration-count: infinite;
-    animation-timing-function: steps(6);
-    animation-delay: 2s;
+    animation-timing-function: steps(4);
     animation-fill-mode: both;
+
 }
 
-@keyframes astronaut_wave_kf {
+@keyframes alien_happy_kf {
     0% {
-        background-position: 0% 0%;
+        background-position: 0% -300%;
     }
     100% {
-        background-position: -600% 0%;
+        background-position: -400% -300%;
     }
 }
 
@@ -677,7 +678,7 @@ img {
     .column_republik {
 
         width: 40vw;
-        height: 52vh;
+        height: 58vh;
         border-radius: 25px;
         margin: 5px;
     }
